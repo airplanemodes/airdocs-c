@@ -1,4 +1,5 @@
 * [`char`](/data-types/char/)
 * [`int`](/data-types/int/)
+* [`long`](/data-types/long/)
 * [`float`](/data-types/float/)
 * [`double`](/data-types/double/)
