@@ -1,1 +1,8 @@
 * [`if`](/statements/if.md)
+* [`switch`](/statements/switch.md)
+* [`while`](/statements/while.md)
+* [`for`](/statements/for.md)
+* [`break`](/statements/break.md)
+* [`continue`](/statements/continue.md)
+* [`return`](/statements/return.md)
+* [`goto`](/statements/goto.md)
