@@ -1,7 +1,7 @@
 # `int`
 
 > **Range:** `INT_MIN` / `INT_MAX`.  
-> **Format specifier:** `%i` or `%d`.  
+> **Format specifiers:** `%i` or `%d`.  
 > **Minimum size:** 16 bits.
 
 Declaration:

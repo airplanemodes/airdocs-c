@@ -1,7 +1,7 @@
 # `double`
 
-> **Range:** `DBL_MIN` / `DBL_MAX`.
-> **Format specifier:** `%lf`, `%lg`, `%le`, `%la`, `%lF`, `%lG`, `%lE`, `%lA`.  
+> **Range:** `DBL_MIN` / `DBL_MAX`.  
+> **Format specifiers:** `%lf`, `%lg`, `%le`, `%la`, `%lF`, `%lG`, `%lE`, `%lA`.  
 > **Minimum size:** 64 bits.
 
 Declaration:

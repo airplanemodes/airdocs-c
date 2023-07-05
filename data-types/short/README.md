@@ -1,7 +1,7 @@
 # `short`
 
 > **Range:** `SHRT_MIN` / `SHRT_MAX`.  
-> **Format specifier:** `%hi` or `%hd`.  
+> **Format specifiers:** `%hi` or `%hd`.  
 > **Minimum size:** 16 bits.
 
 Declaration:

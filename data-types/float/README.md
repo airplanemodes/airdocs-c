@@ -1,7 +1,7 @@
 # `float`
 
-> **Range:** `FLT_MIN` / `FLT_MAX`.
-> **Format specifier:** `%f`, `%g`, `%e`, `%a`, `%F`, `%G`, `%E`, `%A`.  
+> **Range:** `FLT_MIN` / `FLT_MAX`.  
+> **Format specifiers:** `%f`, `%g`, `%e`, `%a`, `%F`, `%G`, `%E`, `%A`.  
 > **Minimum size:** 32 bits.
 
 Declaration:

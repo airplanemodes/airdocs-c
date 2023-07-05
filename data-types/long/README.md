@@ -1,7 +1,7 @@
 # `long`
 
 > **Range:** `LONG_MIN` / `LONG_MAX`.  
-> **Format specifier:** `%li` or `%ld`.  
+> **Format specifiers:** `%li` or `%ld`.  
 > **Minimum size:** 32 bits.
 
 Declaration:

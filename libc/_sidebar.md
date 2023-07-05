@@ -3,4 +3,5 @@
 * [`<stdarg.h>`](/libc/stdarg.h/)
 * [`<math.h>`](/libc/math.h/)
 * [`<string.h>`](/libc/string.h/)
+* [`<float.h>`](/libc/string.h/)
 * [`<limits.h>`](/libc/limits.h/)
