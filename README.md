@@ -47,3 +47,19 @@ $ ./first_program
 # The number of arguments passed is: 1
 # The program name is: ./first_program
 ```
+
+---
+
+### Header files
+
+macOS location:
+
+```
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include
+```
+
+Linux location:
+
+```
+/usr/include
+```
