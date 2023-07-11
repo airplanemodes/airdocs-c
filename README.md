@@ -1,8 +1,6 @@
 # `Introduction`
 
-> An awesome project.
-
-### The `main` function
+### The `main()` function
 
 According to the C standard the `main` function should have a return type of [`int`](/data-types/int/).  
 The return value from the `main` function is used to indicate the exit status of the program to the operating system or the invoking environment.
