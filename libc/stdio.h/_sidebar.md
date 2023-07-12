@@ -1,12 +1,20 @@
 - **[`<stdio.h>`](/libc/stdio.h/)**
 
-- **Functions**
+    - Binary stream i/o
+
+* [`fread()`](/libc/stdio.h/fread.md)
+* [`fwrite()`](/libc/stdio.h/fwrite.md)
+
+    - Stream open
 
 * [`fopen()`](/libc/stdio.h/fopen.md)
+
+    - Reposition a stream
+
 * [`fseek()`](/libc/stdio.h/fseek.md)
 * [`ftell()`](/libc/stdio.h/ftell.md)
 
-- **Constants**
+    - Constants
 
 * [`SEEK_SET`](/libc/stdio.h/SEEK_SET.md)
 * [`SEEK_CUR`](/libc/stdio.h/SEEK_CUR.md)

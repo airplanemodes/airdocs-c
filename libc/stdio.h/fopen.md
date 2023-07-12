@@ -12,4 +12,5 @@ fopen(char *path, char *mode);
 ### Examples
 
 ```c
+
 ```
