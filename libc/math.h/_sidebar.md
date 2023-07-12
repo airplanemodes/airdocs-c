@@ -1,5 +1,8 @@
 - **[`<math.h>`](/libc/math.h/)**
 
+* [`pow()`](/libc/math.h/pow.md)
+* [`powl()`](/libc/math.h/powl.md)
+* [`powf()`](/libc/math.h/powf.md)
 * [`ceil()`](/libc/math.h/ceil.md)
 * [`ceill()`](/libc/math.h/ceill.md)
 * [`ceilf()`](/libc/math.h/ceilf.md)

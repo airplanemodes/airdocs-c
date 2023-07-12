@@ -1,4 +1,4 @@
-# `ceil()`
+# `pow()`
 
 > Return type: [`double`](/data-types/double/).  
 > Standard: **ISO/IEC 9899:2011** (C11).
@@ -6,7 +6,7 @@
 ### Syntax
 
 ```c
-ceil(double x);
+pow(double x, double y);
 ```
 
 ### Examples
@@ -17,12 +17,13 @@ ceil(double x);
 
 int main(void)
 {
-    double x = 4.80;
-    x = ceil(x);
-    printf("x is %f\n", x);
+    double x = 5;
+    double y = 2;
+    double z = pow(x, y);
+    printf("z is %f\n", z);
     return 0;
 }
 
 // Sample output:
-// x is 5.000000
+// z is 25.000000
 ```

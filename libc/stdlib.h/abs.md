@@ -10,3 +10,21 @@ Computes the absolute value of **n**.
 ```c
 abs(int n);
 ```
+
+### Examples
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int n = -10;
+    n = abs(n);
+    printf("n is %d\n", n);
+    return 0;
+}
+
+// Sample output:
+// n is 10
+```
