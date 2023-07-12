@@ -1,7 +1,19 @@
 - **[`<math.h>`](/libc/math.h/)**
 
-* [`roundf()`](/libc/math.h/roundf.md)
+* [`ceil()`](/libc/math.h/ceil.md)
+* [`ceill()`](/libc/math.h/ceill.md)
+* [`ceilf()`](/libc/math.h/ceilf.md)
+* [`floor()`](/libc/math.h/floor.md)
+* [`floorl()`](/libc/math.h/floorl.md)
+* [`floorf()`](/libc/math.h/floorf.md)
 * [`round()`](/libc/math.h/round.md)
 * [`roundl()`](/libc/math.h/roundl.md)
+* [`roundf()`](/libc/math.h/roundf.md)
+* [`lround()`](/libc/math.h/lround.md)
+* [`lroundl()`](/libc/math.h/lroundl.md)
+* [`lroundf()`](/libc/math.h/lroundf.md)
+* [`llround()`](/libc/math.h/llround.md)
+* [`llroundl()`](/libc/math.h/llroundl.md)
+* [`llroundf()`](/libc/math.h/llroundf.md)
 
 - [**`back to libc`**](/libc/)
