@@ -4,6 +4,17 @@
 
 ```c
 while (expression) {
-    statements
+    statements;
 }
+```
+
+```c
+do statement;
+while (expression);
+```
+
+```c
+do {
+    statements;
+} while (expression);
 ```

@@ -4,7 +4,7 @@
 
 ```c
 for (initialization; condition expression; iteration expression) {
-    statements
+    statements;
 }
 ```
 
