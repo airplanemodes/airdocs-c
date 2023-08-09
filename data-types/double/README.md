@@ -7,7 +7,8 @@
 Declaration:
 
 ```c
-double x = 12000.8555;
+double x;
+double y = 3.1415;
 ```
 
 Size and range:

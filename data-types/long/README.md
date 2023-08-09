@@ -7,10 +7,10 @@
 Declaration:
 
 ```c
-long w = 1000000;
-long int x = -2000000;
-signed long y = -1000000000;
-signed long int z = 2000000000;
+long w;
+long int x;
+signed long y;
+signed long int z;
 ```
 
 Range:

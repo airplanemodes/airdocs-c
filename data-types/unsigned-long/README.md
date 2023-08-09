@@ -7,8 +7,8 @@
 Declaration:
 
 ```c
-unsigned long x = 1000000000;
-unsigned long int y = 2000000000;
+unsigned long x;
+unsigned long int y;
 ```
 
 Range:

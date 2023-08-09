@@ -7,7 +7,8 @@
 Declaration:
 
 ```c
-float x = 10.25;
+float x;
+float y = 10.25;
 ```
 
 Size and range:
