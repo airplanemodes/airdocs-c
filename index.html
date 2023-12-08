@@ -6,16 +6,31 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'Airdocs C',
-      repo: '',
+      repo: 'https://github.com/airplanemodes/airdocs-c',
       loadSidebar: true,
-      subMaxLevel: 2
+      subMaxLevel: 2,
+      search: true,
+      plugins: [
+        function pageFooter(hook, vm) {
+            var footer = [
+                '<hr/>',
+                '<footer style="text-align: right; font-size: 8px">',
+                '<span">Copyright © 2023 Roy Alman</span>',
+                '</footer>',
+            ].join('');
+
+            hook.afterEach((html) => {
+                return html + footer;
+            });
+        }
+      ],
     }
   </script>
   <!-- Docsify v4 + Prism-->
