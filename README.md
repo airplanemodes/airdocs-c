@@ -46,8 +46,6 @@ $ ./first_program
 # The program name is: ./first_program
 ```
 
----
-
 ### Header files
 
 macOS location:
