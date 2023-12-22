@@ -4,13 +4,13 @@
 > **Format specifier:** `%c` or `%hhu`.  
 > **Minimum size:** 8 bits.
 
-Declaration:
+### Declaration
 
 ```c
 unsigned char b = 'B';
 ```
 
-Range:
+### Range
 
 ```c
 #include <stdio.h>

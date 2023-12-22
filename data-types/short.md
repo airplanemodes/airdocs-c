@@ -4,16 +4,16 @@
 > **Format specifiers:** `%hi` or `%hd`.  
 > **Minimum size:** 16 bits.
 
-Declaration:
+### Declaration
 
 ```c
-short w = 10;
-short int x = 20;
-signed short y = 30;
-signed short int z = 40;
+short w;
+short int x;
+signed short y;
+signed short int z;
 ```
 
-Range:
+### Range
 
 ```c
 #include <stdio.h>

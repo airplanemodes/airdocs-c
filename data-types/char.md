@@ -4,13 +4,13 @@
 > **Format specifier:** `%c`.  
 > **Minimum size:** 8 bits.
 
-Declaration:
+### Declaration
 
 ```c
 char letter = 'a'; // single quotation marks are required!
 ```
 
-Range:
+### Range
 
 ```c
 #include <stdio.h>

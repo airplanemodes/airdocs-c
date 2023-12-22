@@ -4,14 +4,13 @@
 > **Format specifiers:** `%f`, `%g`, `%e`, `%a`, `%F`, `%G`, `%E`, `%A`.  
 > **Minimum size:** 32 bits.
 
-Declaration:
+### Declaration
 
 ```c
 float x;
-float y = 10.25;
 ```
 
-Size and range:
+### Size and range
 
 ```c
 #include <stdio.h>

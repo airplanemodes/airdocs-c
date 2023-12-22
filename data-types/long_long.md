@@ -4,7 +4,7 @@
 > **Format specifiers:** `%lli` or `%lld`.  
 > **Minimum size:** 64 bits.
 
-Declaration:
+### Declaration
 
 ```c
 long long w;
@@ -13,7 +13,7 @@ signed long long y;
 signed long long int z;
 ```
 
-Range:
+### Range
 
 ```c
 #include <stdio.h>

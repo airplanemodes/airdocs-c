@@ -4,15 +4,15 @@
 > **Format specifiers:** `%i` or `%d`.  
 > **Minimum size:** 16 bits.
 
-Declaration:
+### Declaration
 
 ```c
-int x = 10;
-signed y = 20;
-signed int z = 30;
+int x;
+signed y;
+signed int z;
 ```
 
-Size and range:
+### Size and range
 
 ```c
 #include <stdio.h>

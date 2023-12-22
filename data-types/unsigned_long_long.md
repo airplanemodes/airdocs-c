@@ -4,14 +4,14 @@
 > **Format specifier:** `%llu`.  
 > **Minimum size:** 64 bits.
 
-Declaration:
+### Declaration
 
 ```c
 unsigned long long x;
 unsigned long long int y;
 ```
 
-Range:
+### Range
 
 ```c
 #include <stdio.h>

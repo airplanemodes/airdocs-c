@@ -1,4 +1,4 @@
-- [**`<math.h>`**](/libc/math.h/)
+[**`<math.h>`**](/libc/math.h/)
 
 * [`pow()`](/libc/math.h/pow.md)
 * [`powl()`](/libc/math.h/powl.md)
@@ -19,4 +19,4 @@
 * [`llroundl()`](/libc/math.h/llroundl.md)
 * [`llroundf()`](/libc/math.h/llroundf.md)
 
-- [**`back to libc`**](/libc/)
+[**`back to libc`**](/libc/)

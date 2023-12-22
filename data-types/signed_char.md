@@ -4,13 +4,13 @@
 > **Format specifier:** `%c` or `%hhi`.  
 > **Minimum size:** 8 bits.
 
-Declaration:
+### Declaration
 
 ```c
 signed char a = 'A';
 ```
 
-Range:
+### Range
 
 ```c
 #include <stdio.h>

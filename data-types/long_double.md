@@ -4,13 +4,13 @@
 > **Format specifiers:** `%Lf`, `%LF`, `%Lg`, `%LG`, `%Le`, `%LE`, `%La`, `%LA`.  
 > **Minimum size:** 64 bits.
 
-Declaration:
+### Declaration
 
 ```c
 long double x;
 ```
 
-Size and range:
+### Size and range
 
 ```c
 #include <stdio.h>

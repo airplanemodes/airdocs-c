@@ -4,14 +4,14 @@
 > **Format specifier:** `%hu`.  
 > **Minimum size:** 16 bits.
 
-Declaration:
+### Declaration
 
 ```c
-unsigned short x = 10;
-unsigned short int y = 20;
+unsigned short x;
+unsigned short int y;
 ```
 
-Range:
+### Range
 
 ```c
 #include <stdio.h>
