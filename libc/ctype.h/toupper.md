@@ -1,8 +1,10 @@
 # toupper()
 
-> Returns [`int`](/data-types/int/).
+> Return type: [`int`](/data-types/int/).
 
-Convert a chatacter to uppercase.
+Convert a character to an uppercase.
+
+If the argument is not a lowercase letter it returns unchanged.
 
 ### Syntax
 

@@ -1,8 +1,8 @@
 # isdigit()
 
-> Returns [`int`](/data-types/int/).
+> Return type: [`int`](/data-types/int/).
 
-Tests if a character is digit.
+Tests if a character is a digit.
 
 ### Syntax
 

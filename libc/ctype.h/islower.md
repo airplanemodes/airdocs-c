@@ -1,8 +1,8 @@
 # islower()
 
-> Returns [`int`](/data-types/int/).
+> Return type: [`int`](/data-types/int/).
 
-Tests if a character is lowercase letter.
+Tests if a character is a lowercase letter.
 
 ### Syntax
 

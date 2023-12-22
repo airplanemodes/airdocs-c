@@ -1,6 +1,6 @@
 # isalpha()
 
-> Returns [`int`](/data-types/int/).
+> Return type: [`int`](/data-types/int/).
 
 Tests if a character is alphabetic.
 

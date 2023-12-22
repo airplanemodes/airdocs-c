@@ -1,8 +1,8 @@
 # isupper()
 
-> Returns [`int`](/data-types/int/).
+> Return type: [`int`](/data-types/int/).
 
-Tests if a character is uppercase letter.
+Tests if a character is an uppercase letter.
 
 ### Syntax
 

@@ -1,6 +1,6 @@
 # `strcmp()`
 
-> Returns [`int`](/data-types/int/).
+> Return type: [`int`](/data-types/int/).
 
 Compares values of **s1** and **s2**.
 

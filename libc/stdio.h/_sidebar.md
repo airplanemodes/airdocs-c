@@ -1,5 +1,11 @@
 - **[`<stdio.h>`](/libc/stdio.h/)**
 
+    - Standard streams
+
+* [`stdin`](/libc/stdio.h/stdin.md)
+* [`stdout`](/libc/stdio.h/stdout.md)
+* [`stderr`](/libc/stdio.h/stderr.md)
+
     - Binary stream i/o
 
 * [`fread()`](/libc/stdio.h/fread.md)
@@ -13,6 +19,11 @@
 
 * [`fseek()`](/libc/stdio.h/fseek.md)
 * [`ftell()`](/libc/stdio.h/ftell.md)
+
+    - Output to a stream
+
+* [`printf()`](/libc/stdio.h/printf.md)
+* [`puts()`](/libc/stdio.h/puts.md)
 
     - Constants
 
