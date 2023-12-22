@@ -1,4 +1,4 @@
-- **[`<math.h>`](/libc/math.h/)**
+- [**`<math.h>`**](/libc/math.h/)
 
 * [`pow()`](/libc/math.h/pow.md)
 * [`powl()`](/libc/math.h/powl.md)

@@ -1,4 +1,4 @@
-- **[`<stdio.h>`](/libc/stdio.h/)**
+- [**`<stdio.h>`**](/libc/stdio.h/)
 
     - Standard streams
 
