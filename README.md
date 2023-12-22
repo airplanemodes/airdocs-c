@@ -37,11 +37,11 @@ int main(int argc, char *argv[])
 }
 ```
 
-And here is what happens when this program is being compiled and executed:
+And this is what happens when the program is being compiled and executed:
 
 ```shell
-$ cc first_program.c -o first_program
-$ ./first_program
+cc first_program.c -o first_program
+./first_program
 # The number of arguments passed is: 1
 # The program name is: ./first_program
 ```
