@@ -1,4 +1,4 @@
-[**`<ctype.h>`**](/libc/ctype.h/)
+- [**`<ctype.h>`**](/libc/ctype.h/)
 
 * [`isalpha()`](/libc/ctype.h/isalpha.md)
 * [`islower()`](/libc/ctype.h/islower.md)
@@ -7,4 +7,4 @@
 * [`tolower()`](/libc/ctype.h/tolower.md)
 * [`toupper()`](/libc/ctype.h/toupper.md)
 
-[**`back to libc`**](/libc/)
+- [**`back to libc`**](/libc/)

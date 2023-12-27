@@ -1,4 +1,4 @@
-[**`<stdio.h>`**](/libc/stdio.h/)
+- [**`<stdio.h>`**](/libc/stdio.h/)
 
 - **Standard streams**
 
@@ -31,4 +31,4 @@
 * [`SEEK_CUR`](/libc/stdio.h/SEEK_CUR.md)
 * [`SEEK_END`](/libc/stdio.h/SEEK_END.md)
 
-[**`back to libc`**](/libc/)
+- [**`back to libc`**](/libc/)

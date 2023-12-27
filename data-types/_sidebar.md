@@ -12,5 +12,3 @@
 * [`float`](/data-types/float.md)
 * [`double`](/data-types/double.md)
 * [`long double`](/data-types/long_double.md)
-
-[**back to main**](/)
