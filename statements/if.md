@@ -3,9 +3,21 @@
 ### Syntax
 
 ```c
-if (expression) {
-    statements
-} else {
-    statements
+if (expression) statement;
+else statement;
+```
+
+```c
+if (expression)
+{
+    statements;
+}
+else if (expression) 
+{
+    statements;
+}
+else
+{
+    statements;
 }
 ```
