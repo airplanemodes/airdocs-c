@@ -2,7 +2,7 @@
 
 > Return type: [`int`](/data-types/int/).
 
-Tests if a character is any of `!"#$%&'()*+,-./:;<=>?@[\]^_{|}~` or backtick.
+Tests if a character is any of ``!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~``.
 
 Returns `0` if not.
 
