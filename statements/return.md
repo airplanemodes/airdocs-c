@@ -3,5 +3,5 @@
 ### Syntax
 
 ```c
-
+return expression;
 ```

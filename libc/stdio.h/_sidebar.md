@@ -23,6 +23,7 @@
 - **Output to a stream**
 
 * [`printf()`](/libc/stdio.h/printf.md)
+* [`sprintf()`](/libc/stdio.h/sprintf.md)
 * [`puts()`](/libc/stdio.h/puts.md)
 
 - **Constants**

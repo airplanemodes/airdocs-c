@@ -8,16 +8,11 @@ else statement;
 ```
 
 ```c
-if (expression)
-{
+if (expression) {
     statements;
-}
-else if (expression) 
-{
+} else if (expression) {
     statements;
-}
-else
-{
+} else {
     statements;
 }
 ```

@@ -1,9 +1,9 @@
-# `printf()`
+# `sprintf()`
 
 > Return type: [`int`](/data-types/int/).  
 > Standard: **ANSI X3.159-1989** (ANSI C89) and **ISO/IEC 9899:1999** (C99).
 
-Formatted output to [`stdout`](/libc/stdio.h/stdout.md).
+Writes the formatted output to the **str**.
 
 Returns the number of characters printed, not including `\0`.
 
@@ -11,10 +11,10 @@ Returns the number of characters printed, not including `\0`.
 
 ```c
 // Until C99:
-int printf(const char * format, ...);
+int sprintf(char * str, const char * format, ...);
 
 // Since C99:
-int printf(const char * restrict format, ...);
+int sprintf(char * restrict str, const char * restrict format, ...);
 ```
 
 ### Examples
