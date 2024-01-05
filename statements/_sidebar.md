@@ -7,3 +7,5 @@
 * [`return`](/statements/return.md)
 * [`goto`](/statements/goto.md)
 * [`typedef`](/statements/typedef.md)
+* [`static`](/statements/static.md)
+* [`register`](/statements/register.md)

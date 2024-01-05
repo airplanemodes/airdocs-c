@@ -2,3 +2,4 @@
 * [`#define`](/preprocessor/define.md)
 * [`#if`](/preprocessor/if.md)
 * [`#ifdef`](/preprocessor/ifdef.md)
+* [`#undef`](/preprocessor/undef.md)
