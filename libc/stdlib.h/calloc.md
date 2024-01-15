@@ -1,9 +1,9 @@
-# `malloc()`
+# `calloc()`
 
 > Standard: **ISO/IEC 9899:1990** (C90).
 
 ### Syntax
 
 ```c
-void * malloc(size_t size);
+void * calloc(size_t count, size_t size);
 ```

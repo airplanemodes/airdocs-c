@@ -1,6 +1,5 @@
 # atoi()
 
-> Return type: [`int`](/data-types/int/).  
 > Standard: **ISO/IEC 9899:1990** (C90).
 
 Convert ASCII string to [`int`](/data-types/int/).
@@ -8,7 +7,7 @@ Convert ASCII string to [`int`](/data-types/int/).
 ### Syntax
 
 ```c
-atoi(const char *str);
+int atoi(const char * str);
 ```
 
 ### Examples

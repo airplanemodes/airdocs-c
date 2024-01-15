@@ -5,8 +5,10 @@
 
 - **Memory allocation**
 
-* [`free()`](/libc/stdlib.h/free.md)
 * [`malloc()`](/libc/stdlib.h/malloc.md)
+* [`calloc()`](/libc/stdlib.h/calloc.md)
+* [`realloc()`](/libc/stdlib.h/realloc.md)
+* [`free()`](/libc/stdlib.h/free.md)
 
 - **Sort functions**
 
