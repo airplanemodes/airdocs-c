@@ -1,6 +1,6 @@
 # `strcmp()`
 
-> Return type: [`int`](/data-types/int/).
+> Standard: **ISO/IEC 9899:1990** (C90).
 
 Compares values of **s1** and **s2**.
 
@@ -9,7 +9,7 @@ The comparsion is done using [`unsigned char`](/data-types/unsigned-char/), char
 ### Syntax
 
 ```c
-strcmp(char *s1, char *s2);
+int strcmp(char *s1, char *s2);
 ```
 
 ### Examples
