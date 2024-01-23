@@ -1,9 +1,9 @@
-# `main()`
+# `int main()`
 
 Every C program must contain a `main` function.
 
 ```c
-int main(void)
+int main()
 {
     return 0; // exit status
 }
@@ -34,7 +34,7 @@ Here is an example of a program saved as `first_program.c`:
 int main(int argc, char *argv[])
 {
     printf("The number of arguments passed is: %d\n", argc);
-    printf("The program name is: %s", argv[0]);
+    printf("The program name is: %s\n", argv[0]);
     return 0;
 }
 ```
